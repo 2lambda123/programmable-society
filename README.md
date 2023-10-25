@@ -47,4 +47,4 @@ Teaching style is [flipped classroom](https://en.wikipedia.org/wiki/Flipped_clas
 
 ## Examination
 
-See <https://github.com/KTH/programmable-society/blob/2023/grading.md>
+See <https://github.com/KTH/programmable-society/blob/main/grading-criteria.md>
